@@ -1052,6 +1052,8 @@ width: 230px;
         position: relative;
         width: 400px;
         margin-left: 10px;
+        padding: 0 0 0 45px;
+
 
     }
     .input_form{
@@ -1347,6 +1349,8 @@ width: 230px;
         position: relative;
         width: 370px;
         margin-left: 10px;
+        padding: 0 0 0 45px;
+
     }
 
     .input_form {
@@ -1455,6 +1459,8 @@ width: 230px;
             position: relative;
             width: 350px;
             margin-left: 10px;
+            padding: 0 0 0 45px;
+
         }
 
         .input_form {
